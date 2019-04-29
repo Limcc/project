@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment_1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1">BASKET</string>
+    <string name="f2">RECIPE</string>
+    <string name="f3">SEARCH</string>
+    <string name="f4">MYPAGE</string>
+    <string name="f5">MAIN</string>
+</resources>
