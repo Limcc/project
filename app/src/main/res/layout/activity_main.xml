@@ -22,38 +22,43 @@
 
             <Button
                 android:id="@+id/bt_frag1"
-                android:layout_width="100dp"
+                android:layout_width="wrap_content"
                 android:layout_height="68dp"
                 android:background="#ff656c"
-                android:text="@string/f1" />
+                android:text="@string/f5"
+                android:textColor="@color/textColor" />
 
             <Button
                 android:id="@+id/bt_frag2"
                 android:layout_width="100dp"
                 android:layout_height="68dp"
                 android:background="#ff656c"
-                android:text="@string/f2" />
+                android:text="@string/f2"
+                android:textColor="@color/textColor"/>
 
             <Button
                 android:id="@+id/bt_frag3"
                 android:layout_width="100dp"
                 android:layout_height="68dp"
                 android:background="#ff656c"
-                android:text="@string/f3" />
+                android:text="@string/f3"
+                android:textColor="@color/textColor"/>
 
             <Button
                 android:id="@+id/bt_frag4"
                 android:layout_width="100dp"
                 android:layout_height="68dp"
                 android:background="#ff656c"
-                android:text="@string/f4" />
+                android:text="@string/f4"
+                android:textColor="@color/textColor"/>
 
             <Button
                 android:id="@+id/bt_frag5"
-                android:layout_width="wrap_content"
+                android:layout_width="100dp"
                 android:layout_height="68dp"
                 android:background="#ff656c"
-                android:text="@string/f5" />
+                android:text="@string/f1"
+                android:textColor="@color/textColor"/>
 
         </LinearLayout>
     </FrameLayout>
