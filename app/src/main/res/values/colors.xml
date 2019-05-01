@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#FF656C</color>
+    <color name="colorPrimaryDark">#ff656c</color>
     <color name="colorAccent">#D81B60</color>
+<<<<<<< HEAD
     <color name="yamuk">#ff656c</color>
     <color name="colorW">#ffff</color>
+=======
+    <color name="textColor">#FFFFFF</color>
+
+>>>>>>> 212e52af91b70010868323e531968ef2e84a9340
 </resources>

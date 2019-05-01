@@ -57,6 +57,7 @@
         </FrameLayout>
 
         <LinearLayout
+<<<<<<< HEAD
             android:id="@+id/linearLayout2"
             android:layout_width="412dp"
             android:layout_height="67dp"
@@ -67,10 +68,18 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.6"
             app:layout_constraintStart_toStartOf="parent">
+=======
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+>>>>>>> 212e52af91b70010868323e531968ef2e84a9340
 
             <Button
                 android:id="@+id/bt_frag1"
                 android:layout_width="wrap_content"
+<<<<<<< HEAD
                 android:layout_height="match_parent"
                 android:background="#ff656c"
                 android:text="@string/f1" />
@@ -102,6 +111,44 @@
                 android:layout_height="match_parent"
                 android:background="#ff656c"
                 android:text="@string/f5" />
+=======
+                android:layout_height="68dp"
+                android:background="#ff656c"
+                android:text="@string/f5"
+                android:textColor="@color/textColor" />
+
+            <Button
+                android:id="@+id/bt_frag2"
+                android:layout_width="100dp"
+                android:layout_height="68dp"
+                android:background="#ff656c"
+                android:text="@string/f2"
+                android:textColor="@color/textColor"/>
+
+            <Button
+                android:id="@+id/bt_frag3"
+                android:layout_width="100dp"
+                android:layout_height="68dp"
+                android:background="#ff656c"
+                android:text="@string/f3"
+                android:textColor="@color/textColor"/>
+
+            <Button
+                android:id="@+id/bt_frag4"
+                android:layout_width="100dp"
+                android:layout_height="68dp"
+                android:background="#ff656c"
+                android:text="@string/f4"
+                android:textColor="@color/textColor"/>
+
+            <Button
+                android:id="@+id/bt_frag5"
+                android:layout_width="100dp"
+                android:layout_height="68dp"
+                android:background="#ff656c"
+                android:text="@string/f1"
+                android:textColor="@color/textColor"/>
+>>>>>>> 212e52af91b70010868323e531968ef2e84a9340
 
         </LinearLayout>
 

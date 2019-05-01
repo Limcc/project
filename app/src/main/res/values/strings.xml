@@ -7,5 +7,11 @@
     <string name="f2">RECIPE</string>
     <string name="f3">SEARCH</string>
     <string name="f4">MYPAGE</string>
+<<<<<<< HEAD
     <string name="f5"> BASKET </string>
+=======
+    <string name="f5">MAIN</string>
+
+
+>>>>>>> 212e52af91b70010868323e531968ef2e84a9340
 </resources>
